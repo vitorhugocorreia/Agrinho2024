@@ -6,5 +6,6 @@
 
 .cabeçalho-imagem{
     text-align: end;
-    position: absolute;
+    position: fixed;
+    right: 0px;
 }
