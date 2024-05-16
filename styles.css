@@ -1,11 +1,11 @@
 .texto-inicial{
-    font-size: 30px;
+    font-size: 15px;
     color: black;
-    text-align: left;
+    text-align: center;
 }
 
 .cabeçalho-imagem{
     text-align: end;
     position: fixed;
-    right: 0px;
+    right: 10px;
 }
