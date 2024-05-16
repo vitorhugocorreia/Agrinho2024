@@ -1,5 +1,9 @@
 .texto-inicial{
-    font-size: 40px;
+    font-size: 30px;
     color: black;
     text-align: left;
+}
+
+.cabeçalho-imagem{
+    text-align: right;
 }
