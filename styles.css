@@ -6,13 +6,8 @@
 .texto-inicial{
     font-size: 45px;
     color: black;
-    text-align:start;
 }
 
-.cabeçalho-imagem{
-    text-align: end;
-    position: fixed;
-}
 
 body{
     background-color: var(--cor-de-fundo);
