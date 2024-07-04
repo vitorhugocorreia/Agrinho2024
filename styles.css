@@ -1,17 +1,17 @@
-:root{
-    --cor-de-fundo: #a8c7c2;
-    --cor-texto: #000000;
+h1{
+    text-align: center;
+    background: darkolivegreen;
+    color: white;
+    font-size: larger;
 }
-
-.texto-inicial{
-    font-size: 45px;
+p{
+    text-align: center;
+    background: rgb(162, 214, 162);
     color: black;
+    font-size: medium;
 }
-
-body{
-    background-color: var(--cor-de-fundo);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
+h3{
+    text-align: start;
+    color: black;
+    font-size: medium;
 }
