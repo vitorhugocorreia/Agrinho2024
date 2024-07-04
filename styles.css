@@ -3,12 +3,8 @@
     --cor-texto: #000000;
 }
 
-
-
-
-
 .texto-inicial{
-    font-size: 15px;
+    font-size: 45px;
     color: black;
     text-align:start;
 }
@@ -16,7 +12,6 @@
 .cabeçalho-imagem{
     text-align: end;
     position: fixed;
-    right: 10px;
 }
 
 body{
@@ -25,8 +20,4 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-}
-
-h1{
-    color:
 }
