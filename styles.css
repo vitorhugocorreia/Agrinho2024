@@ -1,3 +1,12 @@
+:root{
+    --cor-de-fundo: #a8c7c2;
+    --cor-texto: #000000;
+}
+
+
+
+
+
 .texto-inicial{
     font-size: 15px;
     color: black;
@@ -8,4 +17,16 @@
     text-align: end;
     position: fixed;
     right: 10px;
+}
+
+body{
+    background-color: var(--cor-de-fundo);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+h1{
+    color:
 }
