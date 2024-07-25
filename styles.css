@@ -1,15 +1,21 @@
+:root {
+    --verde-clarinho: rgb(161, 202, 168);
+    --verde-escuro: darkolivegreen ;
+    --verde-meio-a-meio: rgb(51, 119, 51);
+}
+
 body{
-    background-color: rgb(161, 202, 168);
+    background-color: var(--verde-clarinho);
 }
 h1{
     text-align: center;
-    background: darkolivegreen;
+    background: var(--verde-escuro) ;
     color: white;
     font-size: larger;
 }
 p{
     text-align: start;
-    background: rgb(51, 119, 51);
+    background: var(--verde-meio-a-meio);
     color: black;
     font-size: medium;
 }
